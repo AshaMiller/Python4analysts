@@ -9,4 +9,4 @@ for el in name:
 dollars = (input('Введите количество долларов ($) >>> '))
 
 euro = float(dollars) / 1.17
-print(f"{dollars} $ равно {round(euro, 2)} €")
+print(f"{dollars} $ = {round(euro, 2)} €")
